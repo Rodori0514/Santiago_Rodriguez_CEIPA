@@ -1,0 +1,24 @@
+sistema,codigo_origen,programa_id,modalidad,nota
+SIAC,ADM01,ADM,,Código anterior a la renovación del registro calificado (hasta 2025-1)
+SIAC,ADE10,ADM,,Código vigente desde 2025-2
+SIAC,CON01,CON,,
+SIAC,NEG01,NEG,,
+SIAC,MER01,MER,,
+SIAC,ING01,ING,,
+SIAC,EGP01,EGP,,
+CRM,VC-PRG-001,ADM,Virtual,
+CRM,VC-PRG-002,ADM,Presencial,
+CRM,VC-PRG-003,CON,Virtual,
+CRM,VC-PRG-004,NEG,Presencial,
+CRM,VC-PRG-005,MER,Virtual,
+CRM,VC-PRG-006,ING,Presencial,
+CRM,VC-PRG-007,EGP,Virtual,
+CRM,VC-PRG-008,TGC,Virtual,Inactivo en el CRM
+CRM,VC-PRG-009,DAD,Virtual,No existe en el SIAC
+CONTAPLUS,11010,ADM,,Centro de costo
+CONTAPLUS,11020,CON,,Centro de costo
+CONTAPLUS,11030,NEG,,Centro de costo
+CONTAPLUS,11040,MER,,Centro de costo
+CONTAPLUS,12010,ING,,Centro de costo
+CONTAPLUS,21010,EGP,,Centro de costo
+CONTAPLUS,30010,DAD,,Centro de costo de extensión

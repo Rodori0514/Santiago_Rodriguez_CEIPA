@@ -1,0 +1,16 @@
+etapa_origen,idioma,etapa,estado,orden
+New,inglés,Nuevo,abierta,1
+Nuevo,español,Nuevo,abierta,1
+Contacted,inglés,Contactado,abierta,2
+Contactado,español,Contactado,abierta,2
+Qualified,inglés,Interesado,abierta,3
+Interesado,español,Interesado,abierta,3
+Application Submitted,inglés,Inscrito,abierta,4
+Inscrito,español,Inscrito,abierta,4
+Won,inglés,Ganada,ganada,5
+Closed Won,inglés,Ganada,ganada,5
+Ganada,español,Ganada,ganada,5
+Matriculado,español,Matriculado,ganada,6
+Lost,inglés,Perdida,perdida,9
+Closed Lost,inglés,Perdida,perdida,9
+Perdida,español,Perdida,perdida,9

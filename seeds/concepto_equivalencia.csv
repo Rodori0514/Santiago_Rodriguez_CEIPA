@@ -1,0 +1,16 @@
+codigo_origen,version_contaplus,codigo,grupo
+MAT,3.2,1105,Matrícula
+INS,3.2,1110,Inscripción
+CER,3.2,1130,Certificados
+HAB,3.2,1140,Habilitaciones
+REC,3.2,1150,Recargos
+EXT,3.2,1160,Extensión
+OTR,3.2,1199,Otros ingresos
+1105,3.2.7,1105,Matrícula
+1110,3.2.7,1110,Inscripción
+1120,3.2.7,1120,Grados
+1130,3.2.7,1130,Certificados
+1140,3.2.7,1140,Habilitaciones
+1150,3.2.7,1150,Recargos
+1160,3.2.7,1160,Extensión
+1199,3.2.7,1199,Otros ingresos

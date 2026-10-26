@@ -1,0 +1,80 @@
+{
+ "extracted_at": "2026-10-24T20:34:55Z",
+ "updated_since": null,
+ "total_estimate": 9,
+ "pages": 1,
+ "data": [
+  {
+   "programId": "VC-PRG-001",
+   "name": "Administración de Empresas - Virtual",
+   "level": "Pregrado",
+   "modality": "Virtual",
+   "active": true,
+   "createdAt": "2022-03-14T15:20:00Z"
+  },
+  {
+   "programId": "VC-PRG-002",
+   "name": "Administración de Empresas - Presencial",
+   "level": "Pregrado",
+   "modality": "Presencial",
+   "active": true,
+   "createdAt": "2022-03-14T15:21:00Z"
+  },
+  {
+   "programId": "VC-PRG-003",
+   "name": "Contaduría",
+   "level": "Pregrado",
+   "modality": "Virtual",
+   "active": true,
+   "createdAt": "2022-03-14T15:23:00Z"
+  },
+  {
+   "programId": "VC-PRG-004",
+   "name": "Negocios Internacionales",
+   "level": "Pregrado",
+   "modality": "Presencial",
+   "active": true,
+   "createdAt": "2022-03-14T15:25:00Z"
+  },
+  {
+   "programId": "VC-PRG-005",
+   "name": "Marketing y Ventas",
+   "level": "Pregrado",
+   "modality": "Virtual",
+   "active": true,
+   "createdAt": "2022-03-14T15:26:00Z"
+  },
+  {
+   "programId": "VC-PRG-006",
+   "name": "Ing. Industrial",
+   "level": "Pregrado",
+   "modality": "Presencial",
+   "active": true,
+   "createdAt": "2022-03-14T15:28:00Z"
+  },
+  {
+   "programId": "VC-PRG-007",
+   "name": "Esp. Gerencia de Proyectos",
+   "level": "Posgrado",
+   "modality": "Virtual",
+   "active": true,
+   "createdAt": "2022-08-02T13:05:00Z"
+  },
+  {
+   "programId": "VC-PRG-008",
+   "name": "Tecnología en Gestión Comercial",
+   "level": "Tecnología",
+   "modality": "Virtual",
+   "active": false,
+   "createdAt": "2021-11-09T16:40:00Z"
+  },
+  {
+   "programId": "VC-PRG-009",
+   "name": "Diplomado en Analítica de Datos",
+   "level": "Educación continua",
+   "modality": "Virtual",
+   "active": true,
+   "createdAt": "2025-02-10T14:00:00Z"
+  }
+ ]
+}

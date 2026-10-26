@@ -1,0 +1,20 @@
+NOTA TÉCNICA - ACCESO A DATOS DEL SIAC
+Para: Ingeniero(a) de Datos, proyecto de bodega de datos institucional
+De: Mesa de servicio TI
+Fecha: 19/10/2026
+
+1. Motor: Oracle Database 11g Release 2 (11.2.0.4), Standard Edition One.
+2. Servidor: SRV-SIAC-01, en el datacenter de la sede principal. No tiene IP pública ni VPN para terceros.
+   Por política de seguridad no se habilitan conexiones directas desde internet ni desde la nube.
+3. Export: TI genera cada semana un export completo del esquema SIAC (solo tablas académicas, sin
+   auditoría ni usuarios). El proceso corre los sábados en la madrugada (03:00) y el archivo se publica
+   el domingo con esa fecha en el nombre: siac_export_AAAA_MM_DD.sql.
+4. Formato: script SQL en dialecto Oracle (DDL + INSERT + paquetes PL/SQL). Se valida con SQL*Plus.
+   El archivo se entrega en UTF-8; la base de datos de origen usa WE8MSWIN1252.
+5. Ventana de mantenimiento: domingos de 00:00 a 06:00. En ese horario el SIAC no está disponible.
+6. El export no es incremental: cada semana trae todo el esquema otra vez.
+7. Si necesitan otra tabla, otra frecuencia o un mecanismo distinto (réplica, dblink, agente de
+   integración instalado en la sede), deben radicar la solicitud en la Mesa de servicio TI.
+   Tiempo de respuesta habitual: 10 días hábiles.
+
+Contacto: Mesa de servicio TI - ext. 4410 - mesadeservicio@institucion.edu.co (ficticio)

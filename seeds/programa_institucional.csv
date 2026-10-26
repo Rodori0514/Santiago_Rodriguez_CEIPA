@@ -1,0 +1,9 @@
+programa_id,programa,nivel,centro_costo
+ADM,Administración de Empresas,Pregrado,11010
+CON,Contaduría Pública,Pregrado,11020
+NEG,Negocios Internacionales,Pregrado,11030
+MER,Mercadeo,Pregrado,11040
+ING,Ingeniería Industrial,Pregrado,12010
+EGP,Especialización en Gerencia de Proyectos,Especialización,21010
+TGC,Tecnología en Gestión Comercial,Tecnología,
+DAD,Diplomado en Analítica de Datos,Educación continua,30010
